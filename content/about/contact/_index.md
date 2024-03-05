@@ -14,17 +14,15 @@ og består av følgende
 
 ### Styremedlemmer
 
+- Atin Hejrani
+- Elin Kolle
 - Michael Noor
 - Ragnhild Sundsbak
-- Elin Kolle
-- Francesca Vyvial
 
 ### Varamedlemmer
 
-- Martin André Bildøy Asheim
 - Geir Tore Bakken
-- Åsne Falk-Tveita
-- Atin Hejrani
+- Catharina Ellingsæter
 - Shoaib Mohammad Sultan
 
 Akutte henvendelser kan rettes til Hanne Cecilie Lunde på tlf 404 70 246
