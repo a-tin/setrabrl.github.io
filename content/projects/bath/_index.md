@@ -19,7 +19,7 @@ Prosjektet er avsluttet.
 
 ## Reklamasjon
 
-Arbeidet utført i forbindelse med bad- og rørføringer er nå inne i garantiperioden på 5 år. Hvis man har behov for å reklamere på noe må det sendes mail til roger@sansbygg.no med kopi til setra@styrerommet.net.  
+Garantiperioden gikk ut i novomber 2023.  
 
 ## Hva ble gjort
 
