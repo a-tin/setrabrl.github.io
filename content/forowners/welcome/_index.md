@@ -13,11 +13,11 @@ Velkommen som beboer i Setra borettslag. Borettslaget består av ca 260 leilighe
 
 **Spørsmål 2:** Hvordan holder vi oss best oppdatert med hva som skjer i borettslaget.
 
-**Svar:**  Den mest oppdaterte kanalen for informasjon om borettslaget er [Facebook siden til borettslaget](https://www.facebook.com/groups/855516694552952). Her kan alle som bor i borettslaget bli medlem. Nettsiden er ikke drevet av styret, men styret informer jevnlig via den siden. I tilegg informer Styret via [Vibbo](https://vibbo.no/setra). Husk sett opp varsling på Vibbo hvis du ønsker varsel på mail.
+**Svar:** Det er [Vibbo](https://vibbo.no/setra). Husk å sette opp varsling på Vibbo.
 
 **Spørsmål 3:** Hvordan kommer vi i kontakt med styret.
 
-**Svar:** Den beste måten er via epost. Detaljer finner du [her](https://setrabrl.no/about/contact/).
+**Svar:** Den beste måten er via [Vibbo](https://vibbo.no/setra).
 
 **Spørsmål 4:** Når og hvordan ønsker dere at vi betaler inn felleskostnadene?
 
