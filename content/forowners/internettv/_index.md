@@ -60,19 +60,13 @@ Fra denne dato vil enhetene ble belastet den kostnaden som borettslaget blir bel
 
 Tidligere har kostnaden vært fordelt med fordelingsnøkkelen. Dette betyr kostnaden på Internett/TV ble fordelt ujevnt basert på fordelingsnøkkelen. De minste leilighetene ble i praksis sponset av de største.
 
-Kostnaden er 399,- pr mnd.  
-
-De største leilighetene vil fra denne perioden få litt redusert husleie (50-100kr) og de minst vil få noe økt samlet kostnaded. (ca 50-150)(flestparten rundt 50,-)
+Kostnaden er 463,- pr mnd.  
 
 Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor til deg.
 
 Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompensert fra arbeidsgiver for de som får dekket Internett. 
 
 For de som trenger mer spesifikasjon for Internettkostnader. 
-
-**Internettpakken 500 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er utgiften på Internett som er inkludert i TV/Internettpakken hver beboer må betale**
-
-
 
 ## Utstyr
 
