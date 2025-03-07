@@ -14,7 +14,6 @@ og består av følgende
 
 ### Styremedlemmer
 
-- Catharina Ellingsæter
 - Elin Kolle
 - Michael Noor
 - Ragnhild Sundsbak
