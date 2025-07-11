@@ -7,10 +7,6 @@ weight: 2
 
 Det ble vedtatt 5. februar 2019 å inngå avtale med Mer (tidligere Grønn kontakt) for installasjon av et slikt anlegg. Denne arbeidet inkluderer infrastruktur til alle 157 plassene og ladeboks til de som ønsket det. Elbilanlegget var klar for bruk 18. september 2019. Dette arbeidet kostet totalt 768.733,75,-
 
-Som del av tilbudet fra Mer, fikk andeler med parkeringsplass i Hovseterveien 70 mulighet til å bestille ladeboks til 19.995,- inkludert montering. Det var 20 boenheter som takket ja til tilbudet i første omgang. Boenheter som ønsker ladeboks på sin plass må nå betale ca 23.900,- for å få montert opp ladeboks. Hver parkeringsplass er forberedt til dette.  
-
-![Mer](merlogo.png)
-
 Det ble også søkt om støtte fra Oslo Kommune for arbeidet med ladeinfrastrukturen via [ordningen Oslo kommune har for slik støtte](https://www.oslo.kommune.no/politikk-og-administrasjon/tilskudd-legater-og-stipend/tilskudd-til-ladeinfrastruktur-i-borettslag-og-sameier/#gref). Borettslaget fikk 153.747,- utbetalt i støtte fra Oslo Kommune.
 
 ## Hva koster det å lade?
@@ -18,22 +14,11 @@ Det ble også søkt om støtte fra Oslo Kommune for arbeidet med ladeinfrastrukt
 Strømmen til elbilladingen går over et abonnement betalt av borettslaget. Denne utgiften må dekkes av de som bruker strøm til elbilladingen. 
 
 Det er borettslagets styre som setter prisen på lading. Prisen settes basert på prinsippet om at borettslaget ikke skal tjene eller tape penger på elbilladingen. 
-Prisen vil derfor settes basert på gjennomsnittlig strømpris med avgifter, det påslaget som Mer tar for å drifte anlegget og et lite påslag for å dekke vedlikeholdsavtalen borettslaget har for årlig vedlikehold med OneCo
+Prisen vil derfor settes basert på gjennomsnittlig strømpris med divrse avgifter og kostnader knyttet til administrasjon og vedlikehod av anlegget via leverandøren.
 
-Prisen fra 31.08.2022 er kr 2.50,- pr kWh for lading i garasjen. Dette basert på [reell kostnad til anlegget](chargehistory.png).
+Prisen er kr 2,00- pr kWh for lading i garasjen.
 
-I tillegg må hver boenehet inngå avtale med Mer og må betale 39 kr pr måned i tilegg til strømprisen i anlegget. Med avtalen følger det med en ladebrikke for enkel tilgang til egen lader og hele Mers [landsdekkende ladenettverk](https://no.mer.eco/ladekart/) på ca 1500 ladere. Denne avtalen gir også 15% rabatt på hurtigladenettverket til Mer.
-
-På Mers kundeportal Min Side får den enkelte bruker oversikt over sitt forbruk og totale ladestatistikk hos Mer.
-![Strømforbru](strømforbruk.png "Kundeportal")
-
-Med Flexiladeløsning fra Mer får sluttbrukeren tilgang til 24/7 teknisk support ved behov.
-
-Mer er ansvarlig for support til sluttbrukere og er ansvarlig for fakturering
-
-I 2020 ble det totalt ladet 32525kWh i anlegget.
-
-![Forbruk](foprbruks.png)
+I tillegg må hver boenehet inngå avtale med leverandøren og må betale månedlig abonnement i tillegg til forbruket.
 
 ## Om ladeboksen
 
@@ -47,9 +32,7 @@ Boksen har uttakt for Type 2 kabel som kobles inn i den. (følger typisk med elb
 
 ## Hvordan bestiller man?
 
-For å bestille ladeboks trenger du å fylle ut [dette skjemaet](bestillingskjema.pdf), scanne det og sende på epost til order.no@mer.eco  Prisen er 23.900,-
-
-Mer vil da ordne montering og ladebrikke til deg. Forvent ca 2-4 ukers leveringstid fra man bestiller.
+Ladeboks må bestilles via [leverandøren ved å klikke her.](https://www.wattifev.com/no/mer-etterbestillinger/?utm_source=Project+SNOW&utm_campaign=e0b1604590-EMAIL_CAMPAIGN_2024_06_18_09_54_COPY_01&utm_medium=email&utm_term=0_-ec9d36760c-%5BLIST_EMAIL_ID%5D)
 
 ![FAQ](teslaroadster.png)
  
@@ -59,11 +42,11 @@ Les Mer generelle informasjon.
 
 **Spørsmål:** Hva vil det koste å få elbillader på parkeringsplassen 
 
-**Svar:**  Prisen er 23.900,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 250øre/kWh)
+**Svar:**  Sjekkes med leverandøren. Prisen er på ca.22500,-kr
 
 **Spørsmål:**  Hvordan blir strømforbruket betalt:
 
-**Svar:**  Mer vil sende faktura til beboere med kontrakt.
+**Svar:**  Betalingsmåter som er knyttet til din privat brukerkonto hos leverandøren.
 
 **Spørsmål:** Hvem gjør installasjon av ladeboks og infrastruktur?
 
